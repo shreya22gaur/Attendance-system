@@ -45,6 +45,8 @@ Attendance_System/
 ## 📸 Project Demo
 Face detected
 <img width="635" height="495" alt="Screenshot 2026-06-10 193005" src="https://github.com/user-attachments/assets/61ada6ff-3f0b-4bbd-bcdc-6c95df20a5df" />
+
+
 Attendance marked
 <img width="304" height="41" alt="image" src="https://github.com/user-attachments/assets/ab477504-95f7-493c-8175-7d6b43e33ec5" />
 
